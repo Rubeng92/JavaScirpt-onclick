@@ -1,0 +1,15 @@
+.cuadrado{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+#cuadro1{
+    background-color: red;
+}
+#cuadro2{
+    background-color: green;
+}
+#cuadro3{
+    background-color: blue;
+}
